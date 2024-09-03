@@ -25,9 +25,6 @@ public void validation() {
 public void validate() {
 	System.out.println("validate");
 }
-@Test
-public void newvalidation() {
-	System.out.println(" new validate");
-}
+
 
 }
